@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AKPSI-Rho-Psi/static/css/main.6f10897b.css",
-    "main.js": "/AKPSI-Rho-Psi/static/js/main.c9a28d1e.js",
+    "main.css": "/AKPSI-Rho-Psi/static/css/main.479f3ccc.css",
+    "main.js": "/AKPSI-Rho-Psi/static/js/main.61f11439.js",
     "static/js/787.28cb0dcd.chunk.js": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js",
     "static/media/city.png": "/AKPSI-Rho-Psi/static/media/city.bdad29d412c59a40601c.png",
     "static/media/group.png": "/AKPSI-Rho-Psi/static/media/group.58a2a4018765832da3e6.png",
@@ -9,15 +9,31 @@
     "static/media/prof.png": "/AKPSI-Rho-Psi/static/media/prof.175a9844347960443d62.png",
     "static/media/brotherhood.png": "/AKPSI-Rho-Psi/static/media/brotherhood.ec474e1c3dfa6ebffeec.png",
     "static/media/lightscamerarush.png": "/AKPSI-Rho-Psi/static/media/lightscamerarush.270010e4812ce44b25a5.png",
-    "static/media/google.png": "/AKPSI-Rho-Psi/static/media/google.f1cec56f93b8b24842c5.png",
-    "static/media/goldman.png": "/AKPSI-Rho-Psi/static/media/goldman.c0826ce986465cb39aaa.png",
+    "static/media/google.png": "/AKPSI-Rho-Psi/static/media/google.3787d4708786db4554f7.png",
+    "static/media/citi.png": "/AKPSI-Rho-Psi/static/media/citi.2888b81b7dbaafc1cfae.png",
+    "static/media/microsoft.png": "/AKPSI-Rho-Psi/static/media/microsoft.f7bf90837fdd9355e907.png",
+    "static/media/Deloitte.png": "/AKPSI-Rho-Psi/static/media/Deloitte.872a25382cb86e0b8fd5.png",
+    "static/media/bofa.png": "/AKPSI-Rho-Psi/static/media/bofa.4dbd22e6f884537d14cf.png",
+    "static/media/Y.png": "/AKPSI-Rho-Psi/static/media/Y.751746cf54d8bd5c84b5.png",
+    "static/media/amazon.png": "/AKPSI-Rho-Psi/static/media/amazon.feef187e0a9a655c736a.png",
+    "static/media/blackstone.png": "/AKPSI-Rho-Psi/static/media/blackstone.a8a3a3a3ddf77bad2bf0.png",
+    "static/media/bloomberg.png": "/AKPSI-Rho-Psi/static/media/bloomberg.6bc74f2ad8e5611b3049.png",
+    "static/media/bain.png": "/AKPSI-Rho-Psi/static/media/bain.2a05919607e7c297dbb8.png",
+    "static/media/harvard.png": "/AKPSI-Rho-Psi/static/media/harvard.dfab684d3b30001e0081.png",
+    "static/media/meta.png": "/AKPSI-Rho-Psi/static/media/meta.a5a80c4cd6c18fa0f489.png",
+    "static/media/wharton.png": "/AKPSI-Rho-Psi/static/media/wharton.409ab44996f7943029e2.png",
+    "static/media/morganstanley.png": "/AKPSI-Rho-Psi/static/media/morganstanley.1985094338252dbb4964.png",
+    "static/media/Goldman.png": "/AKPSI-Rho-Psi/static/media/Goldman.ab75e28123db77dec3e9.png",
+    "static/media/BCG.png": "/AKPSI-Rho-Psi/static/media/BCG.f86de4ef2bd58e9872f4.png",
+    "static/media/citadel.png": "/AKPSI-Rho-Psi/static/media/citadel.23b4a371bb0ea902aba8.png",
+    "static/media/jpm.png": "/AKPSI-Rho-Psi/static/media/jpm.85a43bc80573bc268fb8.png",
     "index.html": "/AKPSI-Rho-Psi/index.html",
-    "main.6f10897b.css.map": "/AKPSI-Rho-Psi/static/css/main.6f10897b.css.map",
-    "main.c9a28d1e.js.map": "/AKPSI-Rho-Psi/static/js/main.c9a28d1e.js.map",
+    "main.479f3ccc.css.map": "/AKPSI-Rho-Psi/static/css/main.479f3ccc.css.map",
+    "main.61f11439.js.map": "/AKPSI-Rho-Psi/static/js/main.61f11439.js.map",
     "787.28cb0dcd.chunk.js.map": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f10897b.css",
-    "static/js/main.c9a28d1e.js"
+    "static/css/main.479f3ccc.css",
+    "static/js/main.61f11439.js"
   ]
 }
