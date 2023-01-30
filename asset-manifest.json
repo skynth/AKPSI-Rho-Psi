@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/AKPSI-Rho-Psi/static/css/main.479f3ccc.css",
-    "main.js": "/AKPSI-Rho-Psi/static/js/main.7de3c5ec.js",
+    "main.css": "/AKPSI-Rho-Psi/static/css/main.b8adfc48.css",
+    "main.js": "/AKPSI-Rho-Psi/static/js/main.7c99e86d.js",
     "static/js/787.28cb0dcd.chunk.js": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js",
     "static/media/city.png": "/AKPSI-Rho-Psi/static/media/city.bdad29d412c59a40601c.png",
+    "static/media/rushchairs.jpeg": "/AKPSI-Rho-Psi/static/media/rushchairs.c4dd2af3bfcf667a201c.jpeg",
     "static/media/group.png": "/AKPSI-Rho-Psi/static/media/group.58a2a4018765832da3e6.png",
     "static/media/social.png": "/AKPSI-Rho-Psi/static/media/social.87502cef16875efd17c2.png",
     "static/media/prof.png": "/AKPSI-Rho-Psi/static/media/prof.175a9844347960443d62.png",
     "static/media/brotherhood.png": "/AKPSI-Rho-Psi/static/media/brotherhood.ec474e1c3dfa6ebffeec.png",
-    "static/media/lightscamerarush.png": "/AKPSI-Rho-Psi/static/media/lightscamerarush.270010e4812ce44b25a5.png",
+    "static/media/lightscamerarush.png": "/AKPSI-Rho-Psi/static/media/lightscamerarush.940bda00db45b6ca44ee.png",
     "static/media/google.png": "/AKPSI-Rho-Psi/static/media/google.3787d4708786db4554f7.png",
     "static/media/citi.png": "/AKPSI-Rho-Psi/static/media/citi.2888b81b7dbaafc1cfae.png",
     "static/media/microsoft.png": "/AKPSI-Rho-Psi/static/media/microsoft.f7bf90837fdd9355e907.png",
@@ -28,12 +29,12 @@
     "static/media/citadel.png": "/AKPSI-Rho-Psi/static/media/citadel.23b4a371bb0ea902aba8.png",
     "static/media/jpm.png": "/AKPSI-Rho-Psi/static/media/jpm.85a43bc80573bc268fb8.png",
     "index.html": "/AKPSI-Rho-Psi/index.html",
-    "main.479f3ccc.css.map": "/AKPSI-Rho-Psi/static/css/main.479f3ccc.css.map",
-    "main.7de3c5ec.js.map": "/AKPSI-Rho-Psi/static/js/main.7de3c5ec.js.map",
+    "main.b8adfc48.css.map": "/AKPSI-Rho-Psi/static/css/main.b8adfc48.css.map",
+    "main.7c99e86d.js.map": "/AKPSI-Rho-Psi/static/js/main.7c99e86d.js.map",
     "787.28cb0dcd.chunk.js.map": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.479f3ccc.css",
-    "static/js/main.7de3c5ec.js"
+    "static/css/main.b8adfc48.css",
+    "static/js/main.7c99e86d.js"
   ]
 }
