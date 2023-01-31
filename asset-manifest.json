@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AKPSI-Rho-Psi/static/css/main.082a634c.css",
-    "main.js": "/AKPSI-Rho-Psi/static/js/main.8a897b3c.js",
+    "main.js": "/AKPSI-Rho-Psi/static/js/main.29a6e155.js",
     "static/js/787.28cb0dcd.chunk.js": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js",
     "static/media/city.png": "/AKPSI-Rho-Psi/static/media/city.bdad29d412c59a40601c.png",
     "static/media/rushchairs.jpeg": "/AKPSI-Rho-Psi/static/media/rushchairs.c4dd2af3bfcf667a201c.jpeg",
@@ -30,11 +30,11 @@
     "static/media/jpm.png": "/AKPSI-Rho-Psi/static/media/jpm.85a43bc80573bc268fb8.png",
     "index.html": "/AKPSI-Rho-Psi/index.html",
     "main.082a634c.css.map": "/AKPSI-Rho-Psi/static/css/main.082a634c.css.map",
-    "main.8a897b3c.js.map": "/AKPSI-Rho-Psi/static/js/main.8a897b3c.js.map",
+    "main.29a6e155.js.map": "/AKPSI-Rho-Psi/static/js/main.29a6e155.js.map",
     "787.28cb0dcd.chunk.js.map": "/AKPSI-Rho-Psi/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.082a634c.css",
-    "static/js/main.8a897b3c.js"
+    "static/js/main.29a6e155.js"
   ]
 }
